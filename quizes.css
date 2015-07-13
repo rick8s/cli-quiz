@@ -1,21 +1,30 @@
 html {
-	font-family: "Arial";
+	font-family: Arial;
+}
 
+#sonnets {
+	font-family: Tahoma;
+}
 
 section {
-	font-family: "Tahoma";
-}
-
-body {
 	width: 65%;
 	float: left;
-	clear: left;
+  clear: left;
 }
 
-.sidebar {
-	background-color: blue;
+
+#sidebar {
+  background-color: pink;
 	width: 30%;
 	float: right;
-	clear: right;
+  clear: right;
 }
 
+footer {
+  clear: both;
+}
+
+mark {
+  background-color: lightblue;
+  color: black;
+}
