@@ -2,12 +2,17 @@ html {
 	font-family: Arial;
 }
 
+.title {
+  text-align: center;
+}
+
 #sonnets {
 	font-family: Tahoma;
 }
 
 section {
 	width: 65%;
+  background-color: #ffffcc;
 	float: left;
   clear: left;
 }
@@ -21,6 +26,7 @@ section {
 }
 
 footer {
+  text-align: center;
   clear: both;
 }
 
